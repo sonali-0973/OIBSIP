@@ -87,7 +87,7 @@ The dataset is therefore imbalanced, with significantly more wines classified as
 
 ## 🔄 Project Workflow
 
-
+''' Text
 1. Load Wine Quality Dataset
             ↓
 2. Inspect Dataset Structure
@@ -118,6 +118,7 @@ The dataset is therefore imbalanced, with significantly more wines classified as
             ↓
 15. Draw Conclusions & Recommendations
 🔍 Exploratory Data Analysis
+'''
 
 ## Exploratory Data Analysis (EDA) was performed to understand the structure and characteristics of the dataset.
 
