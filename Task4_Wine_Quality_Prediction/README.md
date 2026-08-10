@@ -182,7 +182,7 @@ Recall
 F1 Score
 Classification Report
 Confusion Matrix
-🏆 Best Model
+## 🏆 Best Model
 
 Based on the current experiment, Random Forest Classifier achieved the best overall performance.
 
@@ -212,7 +212,7 @@ Rank	Feature	Importance
 9	Chlorides	0.068110
 10	pH	0.065280
 11	Free sulfur dioxide	0.059096
-Key Feature
+## Key Feature
 
 Alcohol was the most important feature in the Random Forest model, followed by:
 
@@ -223,7 +223,7 @@ Citric acid
 
 Feature importance indicates how useful a feature was to the model's predictions. It does not necessarily mean that a feature directly causes higher or lower wine quality.
 
-💡 Key Insights
+## 💡 Key Insights
 The dataset contains 1,599 red wine samples.
 There are 11 physicochemical features used for prediction.
 No missing values were identified in the dataset.
@@ -238,7 +238,7 @@ Random Forest achieved 94.38% accuracy in the current experiment.
 Alcohol was the most important feature according to the Random Forest feature-importance analysis.
 Sulphates, density, volatile acidity, and citric acid were also among the most influential features.
 The lower recall for the Good class indicates that identifying minority-class wines remains challenging.
-🚀 Recommendations
+## 🚀 Recommendations
 
 Several approaches could be explored to improve the model further.
 
@@ -274,13 +274,13 @@ ROC-AUC
 
 rather than relying only on accuracy.
 
-📂 Project Structure
+## 📂 Project Structure
 Task4_Wine_Quality_Prediction/
 │
 ├── Wine Quality Prediction Task 4.ipynb
 ├── Wine Quality Red.csv
 └── README.md
-▶️ How to Run
+## ▶️ How to Run
 1. Clone the Repository
 git clone https://github.com/sonali-0973/OIBSIP.git
 2. Navigate to the Project Folder
@@ -302,7 +302,7 @@ Wine Quality Red.csv
 
 is located in the same project folder as the notebook.
 
-📓 Notebook Contents
+## 📓 Notebook Contents
 
 The Jupyter Notebook contains:
 
@@ -328,7 +328,7 @@ Classification reports
 Confusion matrices
 Random Forest feature importance
 Final conclusion and recommendations
-📝 Conclusion
+## 📝 Conclusion
 
 This project demonstrates how machine learning classification techniques can be used to predict red wine quality from physicochemical properties.
 
@@ -342,7 +342,7 @@ However, the dataset contains a significant imbalance between Good and Not Good 
 
 Future improvements could include SMOTE, class weighting, hyperparameter tuning, and cross-validation to improve the model's ability to identify high-quality wines.
 
-Author
+## Author
 
 Zin Nwe Moe
 
@@ -353,7 +353,7 @@ Global Academy at Siam University, Thailand
 
 GitHub: sonali-0973
 
-🎓 Internship
+## 🎓 Internship
 
 This project was completed as part of the:
 
