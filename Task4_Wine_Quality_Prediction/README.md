@@ -87,7 +87,7 @@ The dataset is therefore imbalanced, with significantly more wines classified as
 
 ## 🔄 Project Workflow
 
-```text
+
 1. Load Wine Quality Dataset
             ↓
 2. Inspect Dataset Structure
@@ -119,7 +119,7 @@ The dataset is therefore imbalanced, with significantly more wines classified as
 15. Draw Conclusions & Recommendations
 🔍 Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) was performed to understand the structure and characteristics of the dataset.
+## Exploratory Data Analysis (EDA) was performed to understand the structure and characteristics of the dataset.
 
 The analysis included:
 
@@ -139,7 +139,7 @@ The analysis showed that alcohol had the strongest positive correlation with win
 
 Correlation does not necessarily imply causation, but these relationships provide useful information for the machine learning models.
 
-🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 Three classification algorithms were trained and compared.
 
@@ -161,7 +161,7 @@ The Support Vector Classifier (SVC) attempts to find an optimal decision boundar
 
 Feature scaling was applied before training the SVC model.
 
-⚙️ Model Training
+## ⚙️ Model Training
 
 The dataset was divided into training and testing sets using an 80/20 stratified split.
 
@@ -172,7 +172,7 @@ Stratification was used to preserve the proportion of Good and Not Good wines in
 
 For SGD and SVC, the features were standardized using StandardScaler.
 
-📈 Model Evaluation
+## 📈 Model Evaluation
 
 The models were evaluated using several performance metrics:
 
