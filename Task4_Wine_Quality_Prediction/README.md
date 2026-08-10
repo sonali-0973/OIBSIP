@@ -1,10 +1,10 @@
-# 🍷 Wine Quality Prediction
+#  Wine Quality Prediction
 
 ### Data Analytics Internship — Oasis Infobyte | Task 4
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Can the chemical properties of red wine be used to predict whether a wine is considered good?
 
